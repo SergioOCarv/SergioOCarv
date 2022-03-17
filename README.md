@@ -10,4 +10,4 @@
 
 <img align="center" alt="soc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://github.com/SergioOCarv/SergioOCarv/blob/main/grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
