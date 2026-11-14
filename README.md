@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o @SergioOCarv
 - 👀 Eu tenho interesses em aprender Python e outras linguagens de programação voltadas a web. 
-- 🌱 Atualmente estou me dedicando ao estudo de Python.
+- 🌱 Atualmente estou me dedicando ao estudos voltados a IA e vibe coding.
 - 💞️ Procuro colaborar com pessoas interessadas em back-end.
 - 📫 Após mais de 25 anos na área de gerenciamento de processos e Gerenciamento de implementações de projetos na área de Servidores Microsoft e redes de computadores, me entusiasmei com a programação após o curso "Academia Java" na Globalcode.
 
