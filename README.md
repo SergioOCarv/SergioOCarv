@@ -21,7 +21,9 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
-<img align="center" alt="soc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-<img align="center" alt="soc-Claude" height="30" width="40" src="https://cdn.simpleicons.org/claude/D97757" style="max-width: 100%;">
+<p>
+  <img align="center" alt="soc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+  <img align="center" alt="soc-Claude" height="30" width="40" src="https://cdn.simpleicons.org/claude/D97757" style="max-width: 100%;">
+</p>
 
 <img src="https://github.com/SergioOCarv/SergioOCarv/blob/main/grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
