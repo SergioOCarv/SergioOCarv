@@ -5,11 +5,9 @@
 - 📫 Após mais de 25 anos na área de gerenciamento de processos e Gerenciamento de implementações de projetos na área de Servidores Microsoft e redes de computadores, me entusiasmei com a programação após o curso "Academia Java" na Globalcode.
 
 ##
-<div align="center">
-  <a href="https://github.com/sergioocarv">
-    <img height="190" alt="Estatísticas do GitHub de sergioocarv" src="https://github-readme-stats.vercel.app/api?username=sergioocarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-</div>
+<a href="https://github.com/sergioocarv">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 ##
 
 <a href="https://www.instagram.com/sergioocarv/">
