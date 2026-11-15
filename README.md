@@ -24,6 +24,7 @@
   <img align="center" alt="soc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="soc-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;">
   <img align="center" alt="soc-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+  <img align="center" alt="soc-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" style="max-width: 100%;">
   <img align="center" alt="soc-Claude" height="30" width="40" src="https://cdn.simpleicons.org/claude/D97757" style="max-width: 100%;">
 </p>
 
